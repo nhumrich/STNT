@@ -37,7 +37,8 @@ Cons:
 * Documentation is actually really hard to use. You have to know what you are looking for, and requires a lot of back-and-forth. 
 * Forces JSON
 * Hard to dymically proxy/gateway
-* encourages monolithic structure
+* Encourages monolithic structure
+* N+1 SQL queries are easy to create and often require additional libraries and overhead to avoid.
 
 
 ## Pros of protobuf
