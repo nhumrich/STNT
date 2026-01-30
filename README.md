@@ -1,5 +1,5 @@
 # STNT
-Like SOAP, but new, and more explosive. Soap-TNT. 
+Like SOAP, but new, and more explosive. Soap-TNT. Prounounced "Stunt"
 
 
 This repo serves as a place to document my ideas and specifications for STNT. My modern replacement for REST, intended for use in communication between web-clients and hosted services. 
